@@ -1,77 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="422972d1-77d7-4518-ac91-35e77052a279" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="422972d1-77d7-4518-ac91-35e77052a279" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="155" column="112" selection-start-line="155" selection-start-column="112" selection-end-line="155" selection-end-column="112" />
-              <folding>
-                <element signature="e#4236#4242#0" expanded="true" />
-                <element signature="e#7606#7612#0" expanded="true" />
-                <element signature="e#7612#7618#0" expanded="true" />
-                <element signature="e#7685#7691#0" expanded="true" />
-                <element signature="e#7691#7697#0" expanded="true" />
-                <element signature="e#8116#8122#0" expanded="true" />
-                <element signature="e#8533#8539#0" expanded="true" />
-                <element signature="e#8642#8648#0" expanded="true" />
-                <element signature="e#8648#8654#0" expanded="true" />
-                <element signature="e#9096#9102#0" expanded="true" />
-                <element signature="e#9168#9174#0" expanded="true" />
-                <element signature="e#9174#9180#0" expanded="true" />
-                <element signature="e#9634#9640#0" expanded="true" />
-                <element signature="e#9713#9719#0" expanded="true" />
-                <element signature="e#9719#9725#0" expanded="true" />
-                <element signature="e#10158#10164#0" expanded="true" />
-                <element signature="e#10164#10170#0" expanded="true" />
-                <element signature="e#10249#10255#0" expanded="true" />
-                <element signature="e#10255#10261#0" expanded="true" />
-                <element signature="e#10756#10762#0" expanded="true" />
-                <element signature="e#10762#10768#0" expanded="true" />
-                <element signature="e#11383#11389#0" expanded="true" />
-                <element signature="e#11389#11395#0" expanded="true" />
-                <element signature="e#11395#11401#0" expanded="true" />
-                <element signature="e#11401#11407#0" expanded="true" />
-                <element signature="e#11407#11413#0" expanded="true" />
-                <element signature="e#11413#11419#0" expanded="true" />
-                <element signature="e#11419#11425#0" expanded="true" />
-                <element signature="e#11425#11431#0" expanded="true" />
-                <element signature="e#11431#11437#0" expanded="true" />
-                <element signature="e#11437#11443#0" expanded="true" />
-                <element signature="e#11443#11449#0" expanded="true" />
-                <element signature="e#11449#11455#0" expanded="true" />
-                <element signature="e#11455#11461#0" expanded="true" />
-                <element signature="e#11461#11467#0" expanded="true" />
-                <element signature="e#11467#11473#0" expanded="true" />
-                <element signature="e#11473#11479#0" expanded="true" />
-                <element signature="e#11479#11485#0" expanded="true" />
-                <element signature="e#11750#11756#0" expanded="true" />
-                <element signature="e#11756#11762#0" expanded="true" />
-                <element signature="e#11762#11768#0" expanded="true" />
-                <element signature="e#11768#11774#0" expanded="true" />
-                <element signature="e#12039#12045#0" expanded="true" />
-                <element signature="e#12045#12051#0" expanded="true" />
-                <element signature="e#12051#12057#0" expanded="true" />
-                <element signature="e#12057#12063#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -89,6 +23,7 @@
     <option name="width" value="1399" />
     <option name="height" value="857" />
   </component>
+  <component name="ProjectId" id="1xOqr4QVQicRXxghR7BxQOnldPh" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -113,22 +48,15 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
