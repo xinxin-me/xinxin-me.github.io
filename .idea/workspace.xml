@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="147" column="10" lean-forward="true" selection-start-line="147" selection-start-column="10" selection-end-line="147" selection-end-column="10" />
+            <state relative-caret-position="261">
+              <caret line="145" column="204" selection-start-line="145" selection-start-column="204" selection-end-line="145" selection-end-column="204" />
               <folding>
                 <element signature="e#4236#4242#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="271" />
     <option name="y" value="107" />
     <option name="width" value="1399" />
@@ -168,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="147" column="10" lean-forward="true" selection-start-line="147" selection-start-column="10" selection-end-line="147" selection-end-column="10" />
+        <state relative-caret-position="261">
+          <caret line="145" column="204" selection-start-line="145" selection-start-column="204" selection-end-line="145" selection-end-column="204" />
           <folding>
             <element signature="e#4236#4242#0" expanded="true" />
           </folding>
