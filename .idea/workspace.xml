@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422972d1-77d7-4518-ac91-35e77052a279" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="153" column="69" selection-start-line="153" selection-start-column="69" selection-end-line="153" selection-end-column="69" />
+            <state relative-caret-position="524">
+              <caret line="289" column="6" selection-start-line="289" selection-start-column="6" selection-end-line="289" selection-end-column="6" />
               <folding>
                 <element signature="e#4247#4253#0" expanded="true" />
               </folding>
@@ -40,7 +39,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="456" />
-    <option name="y" value="725" />
+    <option name="y" value="509" />
     <option name="width" value="1399" />
     <option name="height" value="857" />
   </component>
@@ -50,6 +49,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,7 +66,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -104,7 +103,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="456" y="725" width="1399" height="857" extended-state="0" />
+    <frame x="456" y="509" width="1399" height="857" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963716" />
@@ -130,6 +129,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" column="69" selection-start-line="153" selection-start-column="69" selection-end-line="153" selection-end-column="69" />
+          <folding>
+            <element signature="e#4247#4253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2280">
@@ -238,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="153" column="69" selection-start-line="153" selection-start-column="69" selection-end-line="153" selection-end-column="69" />
+        <state relative-caret-position="524">
+          <caret line="289" column="6" selection-start-line="289" selection-start-column="6" selection-end-line="289" selection-end-column="6" />
           <folding>
             <element signature="e#4247#4253#0" expanded="true" />
           </folding>
