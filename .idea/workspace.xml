@@ -2,73 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="422972d1-77d7-4518-ac91-35e77052a279" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="36" column="95" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
-              <folding>
-                <element signature="e#4565#4571#0" expanded="true" />
-                <element signature="e#8602#8608#0" expanded="true" />
-                <element signature="e#8608#8614#0" expanded="true" />
-                <element signature="e#8681#8687#0" expanded="true" />
-                <element signature="e#8687#8693#0" expanded="true" />
-                <element signature="e#9112#9118#0" expanded="true" />
-                <element signature="e#9529#9535#0" expanded="true" />
-                <element signature="e#9638#9644#0" expanded="true" />
-                <element signature="e#9644#9650#0" expanded="true" />
-                <element signature="e#10092#10098#0" expanded="true" />
-                <element signature="e#10164#10170#0" expanded="true" />
-                <element signature="e#10170#10176#0" expanded="true" />
-                <element signature="e#10630#10636#0" expanded="true" />
-                <element signature="e#10709#10715#0" expanded="true" />
-                <element signature="e#10715#10721#0" expanded="true" />
-                <element signature="e#11154#11160#0" expanded="true" />
-                <element signature="e#11160#11166#0" expanded="true" />
-                <element signature="e#11245#11251#0" expanded="true" />
-                <element signature="e#11251#11257#0" expanded="true" />
-                <element signature="e#11752#11758#0" expanded="true" />
-                <element signature="e#11758#11764#0" expanded="true" />
-                <element signature="e#12486#12492#0" expanded="true" />
-                <element signature="e#12492#12498#0" expanded="true" />
-                <element signature="e#12498#12504#0" expanded="true" />
-                <element signature="e#12504#12510#0" expanded="true" />
-                <element signature="e#12510#12516#0" expanded="true" />
-                <element signature="e#12516#12522#0" expanded="true" />
-                <element signature="e#12522#12528#0" expanded="true" />
-                <element signature="e#12528#12534#0" expanded="true" />
-                <element signature="e#12534#12540#0" expanded="true" />
-                <element signature="e#12540#12546#0" expanded="true" />
-                <element signature="e#12546#12552#0" expanded="true" />
-                <element signature="e#12552#12558#0" expanded="true" />
-                <element signature="e#12558#12564#0" expanded="true" />
-                <element signature="e#12564#12570#0" expanded="true" />
-                <element signature="e#12570#12576#0" expanded="true" />
-                <element signature="e#12576#12582#0" expanded="true" />
-                <element signature="e#12582#12588#0" expanded="true" />
-                <element signature="e#12853#12859#0" expanded="true" />
-                <element signature="e#12859#12865#0" expanded="true" />
-                <element signature="e#12865#12871#0" expanded="true" />
-                <element signature="e#12871#12877#0" expanded="true" />
-                <element signature="e#13142#13148#0" expanded="true" />
-                <element signature="e#13148#13154#0" expanded="true" />
-                <element signature="e#13154#13160#0" expanded="true" />
-                <element signature="e#13160#13166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -116,22 +53,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,6 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621605985145</updated>
+      <workItem from="1638413813706" duration="23000" />
     </task>
     <servers />
   </component>
@@ -166,6 +93,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
